@@ -1,3 +1,4 @@
+[![Build Status](https://manigd.visualstudio.com/MyFirstPipeline/_apis/build/status/manishgargd.pipelines-java?branchName=master)](https://manigd.visualstudio.com/MyFirstPipeline/_build/latest?definitionId=1&branchName=master)
 
 # Contributing
 
